@@ -13,3 +13,8 @@
 
 <h2>시작하기</h2>
 <img src="./started/1.png">
+<img src="./started/2.png">
+<img src="./started/3.png">
+<img src="./started/4.png">
+<img src="./started/5.png">
+<img src="./started/6.png">
