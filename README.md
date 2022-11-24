@@ -12,4 +12,4 @@
 </table>
 
 <h2>시작하기</h2>
-![대체 텍스트](./started/1.png)
+<img src="./started/1.png">
