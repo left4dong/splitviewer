@@ -12,9 +12,3 @@
 </table>
 
 <h2>시작하기</h2>
-![1](https://user-images.githubusercontent.com/114213528/203811970-d7ace75e-d455-4cb3-b50f-8d5fd1277089.png)
-![2](https://user-images.githubusercontent.com/114213528/203811975-500abc83-f020-4115-b4bd-b5073d3976ba.png)
-![3](https://user-images.githubusercontent.com/114213528/203811978-410b0948-bdee-4585-bdcb-5407e532198b.png)
-![4](https://user-images.githubusercontent.com/114213528/203811982-9b29a81f-466d-416d-b47c-0edc8348abd2.png)
-![5](https://user-images.githubusercontent.com/114213528/203811986-4edad86a-90cb-45b2-a34b-4390621c874e.png)
-![6](https://user-images.githubusercontent.com/114213528/203811992-e9693191-73c5-4f67-8154-521bba70a133.png)
